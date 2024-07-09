@@ -1,3 +1,8 @@
+body{
+    padding-left: 30px;;
+}
+
+
 #countLabel{
     display: block;
     text-align: center;
@@ -15,4 +20,11 @@
     background-color:cornflowerblue;
     border-radius: 5px;
     cursor: pointer;
+    color: wheat;
+    margin:10px;
+    border-color: transparent;
+}
+
+.btn:hover{
+    background-color: rgb(57, 99, 176);
 }
